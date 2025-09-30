@@ -1,7 +1,6 @@
-#!/usr/bin/perl
-
 use strict;
 use warnings;
+# Note: This script calculates compound interest.
 
 # Simple compound interest calculator in Perl
 sub compound {
